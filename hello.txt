@@ -1,9 +1,9 @@
-Takemoto:Hello World.
+Takemoto :Hello World.
 
-Wang:
+Wang :
 
-Mabuchi:
+Mabuchi :
 
-Kawatura:
+Kawatura :
 
-Sano:
+Sano :
