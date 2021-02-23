@@ -1,6 +1,6 @@
 Takemoto :
 
-Wang :
+Wang :hello world
 
 Mabuchi :
 
