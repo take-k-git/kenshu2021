@@ -4,6 +4,6 @@ Wang :hello world
 
 Mabuchi : Hello World!
 
-Kawatura :
+Kawatura : hello world
 
 Sano :hello world
